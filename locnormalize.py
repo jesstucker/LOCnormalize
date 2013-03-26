@@ -8,7 +8,7 @@ from sys import argv
 from os.path import exists
 
 script, test_file = argv
-openy = open('jd2012a.txt', 'r')
+openy = open('un-normalizedlist.txt', 'r')
 slist = openy.readlines()
 
 
