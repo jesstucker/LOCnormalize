@@ -1,10 +1,15 @@
 Hello.
 
 This file is a python script to normalize "Library of Congress call numbers." The way that you use it is:
+
 1. Download the script.
+
 2. Put it in the same directory as your un-normalized call number list.  Your un-normalized call number list should be a simple text file, one call number per line, no commas necessary
+
 3. Open up the LOCnormalize.py script in a text editor, change the "openy" variabel to point to your un-normalized text file.
+
 4. Open up terminal and change it to directory where you put the LOCnormalize.py script and un-normalized call number list text file.
+
 5. type the following into terminal:
 
 python locnormalize.py newlistname.txt
