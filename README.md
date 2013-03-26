@@ -10,6 +10,7 @@ A few specication I'd like to add:
 
 1. The list should be cleaned up.  If there are Dewey decimals in there, or any other erroneous entries, locnormalize.py will produce an error.
 
-2.  The script is specified for my institution's specifications.  If the script doesn't seem to work, perhaps your list of call numbers follows another convention.  Our convention is as follows (@ = alpha character, and # = numeric character).  @@@.####.# .@###### @#### ####
-
+2.  The script is specified for my institution's specifications.  If the script doesn't seem to work, perhaps your list of call numbers follows another convention. 
+ Our convention is as follows (@ = alpha character, and # = numeric character).
+  @@@.####.# .@###### @#### ####
 Good luck.
